@@ -1,2 +1,3 @@
-# test
-repository for learning github
+# Test  reprository
+
+This repository created for learning github
